@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Low Jet Yee</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="bio" >Foods I like : Ice Cream \n
+    \nHobbies: Listen to music and watching Netflix
+    \n
+    \nEducation:
+    \n \tSJK(C)Desa Jaya
+    \n \tSMK Kepong Ulu
+    \n \tTAR UC
+
+    \n
+    \nWorking Experience:
+    \n \tSale Assistant\n\tPromoter\
+ </string>
+
+
+</resources>
